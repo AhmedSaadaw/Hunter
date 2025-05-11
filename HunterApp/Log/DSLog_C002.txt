@@ -1,0 +1,2 @@
+C002: Read Command id 43, error:Unable to read the data! Got error:C002.ReportFlowZoneMonitoringData_Trigger: Failed command. Exception: Failed with error code 6, request parameters: 
+C002: Read Command id 122, error:Unable to read the data! Got error:C002.ReportFlowTotals_Trigger: Failed command. Exception: Failed with error code 6, request parameters: C_7A_Type_Command: 0, C_7A_RecordIndex_Command: 0, C_7A_ContollerUnixTime_Command: 1701864300000

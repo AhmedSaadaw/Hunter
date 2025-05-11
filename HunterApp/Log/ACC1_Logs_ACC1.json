@@ -1,0 +1,253 @@
+{
+  "Controller Logs": [
+    {
+      "Date/Time": "17/04/2024 11:12:00 AM",
+      "Type": "Time/Date Changed by Central",
+      "Detail": "TIME_DATE_CHANGED_BY_CENTRAL, Date: 1999-12-31, Old MAM Time: 2025-03-16 16:11"
+    },
+    {
+      "Date/Time": "13/04/2024 11:17:00 AM",
+      "Type": "Time/Date Changed by Central",
+      "Detail": "TIME_DATE_CHANGED_BY_CENTRAL, Date: 1999-12-31, Old MAM Time: 2025-03-16 11:17"
+    },
+    {
+      "Date/Time": "13/04/2024 11:18:03 AM",
+      "Type": "Off Mode Set at Controller",
+      "Detail": "OFF_MODE_SET_AT_CONTROLLER"
+    },
+    {
+      "Date/Time": "13/04/2024 11:18:30 AM",
+      "Type": "Programmable Off Cancelled at Controller",
+      "Detail": "PROGRAMMABLE_OFF_CANCELLED_AT_CONTROLLER"
+    },
+    {
+      "Date/Time": "13/04/2024 11:18:33 AM",
+      "Type": "Off Mode Set at Controller",
+      "Detail": "OFF_MODE_SET_AT_CONTROLLER"
+    },
+    {
+      "Date/Time": "13/04/2024 11:18:46 AM",
+      "Type": "Programmable Off Set at Controller",
+      "Detail": "PROGRAMMABLE_OFF_SET_AT_CONTROLLER"
+    },
+    {
+      "Date/Time": "13/04/2024 11:22:05 AM",
+      "Type": "Programmable Off Cancelled at Controller",
+      "Detail": "PROGRAMMABLE_OFF_CANCELLED_AT_CONTROLLER"
+    },
+    {
+      "Date/Time": "13/04/2024 11:22:05 AM",
+      "Type": "Run Mode Set at Controller",
+      "Detail": "RUN_MODE_SET_AT_CONTROLLER"
+    },
+    {
+      "Date/Time": "13/04/2024 11:51:14 AM",
+      "Type": "Programmable Off Set by Central",
+      "Detail": "PROGRAMMABLE_OFF_SET_BY_CENTRAL"
+    },
+    {
+      "Date/Time": "13/04/2024 11:51:48 AM",
+      "Type": "Suspend Mode Set by Central",
+      "Detail": "SUSPEND_MODE_SET_BY_CENTRAL"
+    },
+    {
+      "Date/Time": "13/04/2024 11:52:01 AM",
+      "Type": "Suspend Mode Cancelled by Central",
+      "Detail": "SUSPEND_MODE_CANCELLED_BY_CENTRAL"
+    },
+    {
+      "Date/Time": "13/04/2024 11:52:11 AM",
+      "Type": "Irrigation Stopped by Central",
+      "Detail": "IRRIGATION_STOPPED_BY_CENTRAL"
+    },
+    {
+      "Date/Time": "13/04/2024 11:52:22 AM",
+      "Type": "Pause Mode Set by Central",
+      "Detail": "PAUSE_MODE_SET_BY_CENTRAL"
+    },
+    {
+      "Date/Time": "13/04/2024 11:52:32 AM",
+      "Type": "Pause Mode Cancelled by Central",
+      "Detail": "PAUSE_MODE_CANCELLED_BY_CENTRAL"
+    },
+    {
+      "Date/Time": "13/04/2024 01:41:53 PM",
+      "Type": "Solar-Sync Delay Updated by Central",
+      "Detail": "SOLAR_SYNC_DELAY_UPDATED_BY_CENTRAL, S-Sync Delay Days: 0, S-Sync Seasonal Adjust: 10%"
+    },
+    {
+      "Date/Time": "13/04/2024 01:44:08 PM",
+      "Type": "Solar-Sync Delay Updated by Central",
+      "Detail": "SOLAR_SYNC_DELAY_UPDATED_BY_CENTRAL, S-Sync Delay Days: 0, S-Sync Seasonal Adjust: 5%"
+    }
+  ],
+  "Station Logs": [
+    {
+      "Date/Time": "16/03/2025 12:22:05 PM",
+      "Type": "Irrigation Stopped – Decoder Communications Failure",
+      "Detail": "IRRIGATION_STOPPED_DECODER_COMMUNICATIONS_FAILURE, Station #5, Time elapsed: 0:0:0, ProgramA, Mode: AUTO_PROGRAM"
+    },
+    {
+      "Date/Time": "16/03/2025 12:22:14 PM",
+      "Type": "Irrigation Stopped – Decoder Communications Failure",
+      "Detail": "IRRIGATION_STOPPED_DECODER_COMMUNICATIONS_FAILURE, Station #6, Time elapsed: 0:0:0, ProgramA, Mode: AUTO_PROGRAM"
+    },
+    {
+      "Date/Time": "16/03/2025 12:22:23 PM",
+      "Type": "Irrigation Stopped – Decoder Communications Failure",
+      "Detail": "IRRIGATION_STOPPED_DECODER_COMMUNICATIONS_FAILURE, Station #7, Time elapsed: 0:0:0, ProgramA, Mode: AUTO_PROGRAM"
+    },
+    {
+      "Date/Time": "16/03/2025 12:22:32 PM",
+      "Type": "Irrigation Stopped – Decoder Communications Failure",
+      "Detail": "IRRIGATION_STOPPED_DECODER_COMMUNICATIONS_FAILURE, Station #8, Time elapsed: 0:0:0, ProgramA, Mode: AUTO_PROGRAM"
+    },
+    {
+      "Date/Time": "16/03/2025 12:22:42 PM",
+      "Type": "Irrigation Stopped – Decoder Communications Failure",
+      "Detail": "IRRIGATION_STOPPED_DECODER_COMMUNICATIONS_FAILURE, Station #9, Time elapsed: 0:0:0, ProgramA, Mode: AUTO_PROGRAM"
+    },
+    {
+      "Date/Time": "16/03/2025 12:22:51 PM",
+      "Type": "Irrigation Stopped – Decoder Communications Failure",
+      "Detail": "IRRIGATION_STOPPED_DECODER_COMMUNICATIONS_FAILURE, Station #10, Time elapsed: 0:0:0, ProgramA, Mode: AUTO_PROGRAM"
+    },
+    {
+      "Date/Time": "16/03/2025 12:23:01 PM",
+      "Type": "Irrigation Stopped – Decoder Communications Failure",
+      "Detail": "IRRIGATION_STOPPED_DECODER_COMMUNICATIONS_FAILURE, Station #11, Time elapsed: 0:0:0, ProgramA, Mode: AUTO_PROGRAM"
+    },
+    {
+      "Date/Time": "16/03/2025 12:23:10 PM",
+      "Type": "Irrigation Stopped – Decoder Communications Failure",
+      "Detail": "IRRIGATION_STOPPED_DECODER_COMMUNICATIONS_FAILURE, Station #12, Time elapsed: 0:0:0, ProgramA, Mode: AUTO_PROGRAM"
+    },
+    {
+      "Date/Time": "13/04/2024 11:39:17 AM",
+      "Type": "Irrigation Stopped",
+      "Detail": "IRRIGATION_STOPPED, Station #1, Time elapsed: 0:4:38, ProgramA, Mode: MANUAL_ONE_STATION"
+    },
+    {
+      "Date/Time": "13/04/2024 11:39:17 AM",
+      "Type": "Irrigation Stopped",
+      "Detail": "IRRIGATION_STOPPED, Station #1, Time elapsed: 0:3:26, ProgramA, Mode: MANUAL_ONE_STATION"
+    },
+    {
+      "Date/Time": "13/04/2024 11:45:25 AM",
+      "Type": "Irrigation Stopped",
+      "Detail": "IRRIGATION_STOPPED, Station #5, Time elapsed: 0:3:18, ProgramB, Mode: MANUAL_PROGRAM"
+    },
+    {
+      "Date/Time": "13/04/2024 11:46:24 AM",
+      "Type": "Irrigation Stopped",
+      "Detail": "IRRIGATION_STOPPED, Station #5, Time elapsed: 0:0:27, ProgramB, Mode: MANUAL_PROGRAM"
+    },
+    {
+      "Date/Time": "13/04/2024 11:51:01 AM",
+      "Type": "Irrigation Stopped",
+      "Detail": "IRRIGATION_STOPPED, Station #5, Time elapsed: 0:0:30, ProgramB, Mode: MANUAL_PROGRAM"
+    },
+    {
+      "Date/Time": "13/04/2024 11:51:15 AM",
+      "Type": "Missed Irrigation – System Suspend",
+      "Detail": "MISSED_IRRIGATION_SYSTEM_SUSPEND, Station #5, Time elapsed: 0:10:31, ProgramA, Mode: MANUAL_PROGRAM"
+    },
+    {
+      "Date/Time": "13/04/2024 11:51:48 AM",
+      "Type": "Irrigation Interrupted",
+      "Detail": "IRRIGATION_INTERRUPTED, Station #5, Time elapsed: 0:0:12, ProgramB, Mode: MANUAL_PROGRAM"
+    },
+    {
+      "Date/Time": "13/04/2024 11:52:01 AM",
+      "Type": "Missed Irrigation – System Suspend",
+      "Detail": "MISSED_IRRIGATION_SYSTEM_SUSPEND, Station #5, Time elapsed: 0:0:13, ProgramB, Mode: MANUAL_PROGRAM"
+    },
+    {
+      "Date/Time": "13/04/2024 11:52:12 AM",
+      "Type": "Irrigation Stopped",
+      "Detail": "IRRIGATION_STOPPED, Station #5, Time elapsed: 0:0:11, ProgramB, Mode: MANUAL_PROGRAM"
+    }
+  ],
+  "Alarm Logs": [
+    {
+      "Date/Time": "13/04/2024 02:00:00 PM",
+      "Type": "Solar-Sync Sensor",
+      "Detail": "SOLAR_SYNC_SENSOR, Reason: COMMUNICATION_FAILED"
+    },
+    {
+      "Date/Time": "15/03/2025 11:30:00 PM",
+      "Type": "Solar-Sync Sensor",
+      "Detail": "SOLAR_SYNC_SENSOR, Reason: COMMUNICATION_FAILED"
+    },
+    {
+      "Date/Time": "16/03/2025 12:22:03 PM",
+      "Type": "Station Fault",
+      "Detail": "STATION_FAULT, Reason: COMMUNICATION_FAILED, Station #5, ProgramA, Mode: AUTO_PROGRAM"
+    },
+    {
+      "Date/Time": "16/03/2025 12:22:12 PM",
+      "Type": "Station Fault",
+      "Detail": "STATION_FAULT, Reason: COMMUNICATION_FAILED, Station #6, ProgramA, Mode: AUTO_PROGRAM"
+    },
+    {
+      "Date/Time": "16/03/2025 12:22:21 PM",
+      "Type": "Station Fault",
+      "Detail": "STATION_FAULT, Reason: COMMUNICATION_FAILED, Station #7, ProgramA, Mode: AUTO_PROGRAM"
+    },
+    {
+      "Date/Time": "16/03/2025 12:22:30 PM",
+      "Type": "Station Fault",
+      "Detail": "STATION_FAULT, Reason: COMMUNICATION_FAILED, Station #8, ProgramA, Mode: AUTO_PROGRAM"
+    },
+    {
+      "Date/Time": "16/03/2025 12:22:40 PM",
+      "Type": "Station Fault",
+      "Detail": "STATION_FAULT, Reason: COMMUNICATION_FAILED, Station #9, ProgramA, Mode: AUTO_PROGRAM"
+    },
+    {
+      "Date/Time": "16/03/2025 12:22:49 PM",
+      "Type": "Station Fault",
+      "Detail": "STATION_FAULT, Reason: COMMUNICATION_FAILED, Station #10, ProgramA, Mode: AUTO_PROGRAM"
+    },
+    {
+      "Date/Time": "16/03/2025 12:22:59 PM",
+      "Type": "Station Fault",
+      "Detail": "STATION_FAULT, Reason: COMMUNICATION_FAILED, Station #11, ProgramA, Mode: AUTO_PROGRAM"
+    },
+    {
+      "Date/Time": "16/03/2025 12:23:08 PM",
+      "Type": "Station Fault",
+      "Detail": "STATION_FAULT, Reason: COMMUNICATION_FAILED, Station #12, ProgramA, Mode: AUTO_PROGRAM"
+    },
+    {
+      "Date/Time": "13/04/2024 11:23:31 AM",
+      "Type": "Power Outage",
+      "Detail": "POWER_OUTAGE"
+    },
+    {
+      "Date/Time": "13/04/2024 11:23:47 AM",
+      "Type": "Power Restore",
+      "Detail": "POWER_RESTORE"
+    },
+    {
+      "Date/Time": "13/04/2024 11:28:46 AM",
+      "Type": "Power Outage",
+      "Detail": "POWER_OUTAGE"
+    },
+    {
+      "Date/Time": "13/04/2024 11:28:59 AM",
+      "Type": "Power Restore",
+      "Detail": "POWER_RESTORE"
+    },
+    {
+      "Date/Time": "13/04/2024 11:33:47 AM",
+      "Type": "Power Outage",
+      "Detail": "POWER_OUTAGE"
+    },
+    {
+      "Date/Time": "13/04/2024 11:34:02 AM",
+      "Type": "Power Restore",
+      "Detail": "POWER_RESTORE"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+==========================
+OPC server connection log.
+Time 10/20/2023 12:40:08 AM
+Version: 4.17.14.14
+
+Datasource name: CATAPULT
+Server name: Catapult.DNPOPC
+Server IP Address: 127.0.0.1
+
+OPC server connected successfully.
+OPC group added successfully. Group name: Group1
+No OPC items defined.

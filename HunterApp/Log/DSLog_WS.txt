@@ -1,0 +1,13 @@
+Modbus Connection log.
+Time 2/26/2024 5:02:02 AM
+Version: 4.17.19.8
+
+Datasource name: WS
+Modbus Type: Modbus TCP
+IP address: 192.168.3.117
+Port number: 502
+
+Automatic ranges generation:
+Preparing ranges and related actions:
+New Modbus Range generated: Function Read_HReg, From 4, Length 16
+WS: Read_HReg error. From:4, Length:16, error: Illegal state error

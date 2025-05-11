@@ -1,0 +1,1 @@
+[{"Name":"Broker1","Active":true,"BrokerAddress":"www.streamiiot.com","Port":1883,"ClientID":"","ReconnectDelay":5000,"StatusTag":"","UserName":"ev_f1","Password":"jV&rR4bA2e6jBJ:V","TimestampKey":null,"TimestampFormat":"yyyy-MM-dd-HH:mm:ss","WriteFormatType":0,"Write_Json_ValueKey":"","Write_Json_TimeStampKey":""}]

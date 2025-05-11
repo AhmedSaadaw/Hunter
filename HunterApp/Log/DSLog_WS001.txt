@@ -1,0 +1,17 @@
+Modbus Connection log.
+Time 7/16/2024 3:04:00 PM
+Version: 4.17.27.3
+
+Datasource name: WS001
+Modbus Type: Modbus TCP
+IP address: 127.0.0.1
+Port number: 502
+
+Automatic ranges generation:
+Preparing ranges and related actions:
+New Modbus Range generated: Function Read_HReg, From 4, Length 16
+New Modbus Range generated: Function Read_Float, From 16, Length 4
+New Modbus Range generated: Function Read_Float, From 17, Length 4
+WS001: Read_HReg error. From:4, Length:16, error: Illegal state error
+WS001: Read_Float error. From:16, Length:4, error: Illegal state error
+WS001: Read_Float error. From:17, Length:4, error: Illegal state error

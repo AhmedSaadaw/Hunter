@@ -1,0 +1,20 @@
+{
+  "ServerIPAddress": "localhost",
+  "ServerPort": "49110",
+  "WindowsUser": "Everyone",
+  "ServerMode": "Single",
+  "ServerModeStatusTagName": "",
+  "ForceServerModeToStandbyTagName": "",
+  "RedundantServer2_Enabled": false,
+  "RedundantServer2_IPAddress": "",
+  "RedundantServer2_PortNo": "49110",
+  "RedundantServer2_ModeTagName": "",
+  "RedundantServer3_Enabled": false,
+  "RedundantServer3_IPAddress": "",
+  "RedundantServer3_PortNo": "49110",
+  "RedundantServer3_ModeTagName": "",
+  "RedundantCheckTimeOut_ms": 1000,
+  "RedundantCheckInterval_ms": 1000,
+  "RestApi_UseHTTPS": false,
+  "DMZ_Server": false
+}
